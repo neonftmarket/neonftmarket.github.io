@@ -1,0 +1,43 @@
+{
+  "name": "Neon EVM Punks #431",
+  "description": "10,000 Punks on Neon EVM. First NFT collection on Neon EVM.",
+  "image": "ipfs://bafybeib2mktqu4ggq7ibykcn2caavufohxsooclyxtmp7zk6e776gzok7a/431.png",
+  "dna": "eff57dea1d564d925345eb8bd93787662d758314",
+  "edition": 431,
+  "date": 1703205511479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow NeonEVM"
+    },
+    {
+      "trait_type": "Type",
+      "value": "White Male"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk1"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facialhair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
